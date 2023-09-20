@@ -1,9 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Shaik</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shaik
-![build: passing](https://img.shields.io/badge/build-passing-success)
-
 
 ## 👨🏻‍💻 &nbsp;About Me
 
