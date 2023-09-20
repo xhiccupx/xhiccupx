@@ -9,14 +9,18 @@
 ## 🔧 Latest work
 - [BinPackerPro library](https://pypi.org/project/BinPackerPro/)
 - [Sentiment Analyzer](https://github.com/xhiccupx/sentiment-analyzer)
+- [Fall Detection IOT](https://github.com/xhiccupx/fall-detection-IOT)
+- [Fall Detection Open CV](https://github.com/xhiccupx/fall-detection)
+- [Flask Discovery](https://github.com/xhiccupx/fall-detection)
+- [Blog Post](https://github.com/xhiccupx/blogpost)
+- [Loan API](https://github.com/xhiccupx/loan-api)
+- [Tic Tac Toe](https://github.com/xhiccupx/tic-tac-toe)
 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
