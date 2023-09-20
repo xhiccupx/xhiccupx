@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a software developer who has built scalable serverless systems, robotic process automations, web scrapers, web sites and apis.\
+💡 &nbsp;Sombody how loves finding most optimal solution for anything.\
 
 ## 🔧 Latest work
 - [BinPackerPro library](https://pypi.org/project/BinPackerPro/)
