@@ -1,19 +1,11 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shaik
-![version :19.09.2023](https://img.shields.io/badge/version-14.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=xhiccupx&color=red)&nbsp;
-[![GitHub kanmaytacker](https://img.shields.io/github/followers/xhiccupx?label=follow&style=social)](https://github.com/xhiccupx)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Computer Science and ML Engineer who has spent 5+ years building scalable distributed systems and optimisation engines.\
-🎓 &nbsp;I'm an alumnus of [NIT Allahabad](http://www.mnnit.ac.in/). A proud Moti ka lal :D \
-🎓 &nbsp;I'm currently a postgraduate student studying Artificial Intelligence at the [School of Aerospace at Cranfield University](https://dspace.lib.cranfield.ac.uk/handle/1826/8736). \
-🛠 &nbsp;My last work project was building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
-🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
-🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
-✉️ &nbsp;You can email me at tanmaykacker40@gmail.com.
+💡 &nbsp;I'm a software developer who has built scalable serverless systems, robotic process automations, web scrapers, web sites and apis.\
+✉️ &nbsp;You can email me at smdar7@gmail.com.
 
 ## 📚 Latest publications
 - [Multi-Spectral Fusion using Generative Adversarial Networks for UAV Detection of Wild Fires](https://ieeexplore.ieee.org/document/10067042)
