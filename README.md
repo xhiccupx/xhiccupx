@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;sombody how thinks finding most optimal solution is sexy.
+💡 &nbsp;sombody how loves finding most optimal solution.
 
 ## 🔧 Latest work
 - [BinPackerPro library](https://pypi.org/project/BinPackerPro/)
