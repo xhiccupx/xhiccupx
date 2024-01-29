@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;sombody how loves to innovate.
+💡 &nbsp;I try to find simple solutions for complex problems.
 
 
 ## 🔧 Latest work
