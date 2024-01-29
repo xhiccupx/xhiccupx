@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;sombody how loves finding most optimal solution.
+💡 &nbsp;sombody how loves to innovate.
 
 
 ## 🔧 Latest work
